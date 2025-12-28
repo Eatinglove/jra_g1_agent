@@ -7,4 +7,6 @@ use this agent to answer some simple problem about race history
 
 最後執行llm.py，在這裡就可以問問題了
 
+又或者直接下載db.json，裡面已經處理過了，這樣就不用執行crawl.py跟save.py了
+
 missing_data.txt代表沒有資料的比賽
