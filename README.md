@@ -10,3 +10,5 @@ use this agent to answer some simple problem about race history
 又或者直接下載db.json，裡面已經處理過了，這樣就不用執行crawl.py跟save.py了
 
 missing_data.txt代表沒有資料的比賽
+
+<img width="1587" height="815" alt="state machine diagram" src="https://github.com/user-attachments/assets/b9d7aaf3-f488-497c-a721-10ab96f9d4c4" />
