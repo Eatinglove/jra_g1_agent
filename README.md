@@ -11,4 +11,5 @@ use this agent to answer some simple problem about race history
 
 missing_data.txt代表沒有資料的比賽
 
-<img width="1587" height="815" alt="state machine diagram" src="https://github.com/user-attachments/assets/b9d7aaf3-f488-497c-a721-10ab96f9d4c4" />
+
+<img width="1587" height="815" alt="state machine diagram" src="https://github.com/user-attachments/assets/ed00f613-7d18-4fae-a433-4c63e29bf90b" />
